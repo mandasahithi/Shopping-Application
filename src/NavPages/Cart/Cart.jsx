@@ -191,14 +191,14 @@ const Cart = () => {
                   <span>₹ {total.toFixed(2)}</span>
                 </ListGroup.Item>
               </ListGroup>
-              <Button
+              {/* <Button
                 variant="dark"
                 className="w-100 mt-3"
-                onClick={() => setStep(1)}
+                onClick={() => setSte                git rebase --continuep(1)}
                 disabled={cartItems.length === 0}
               >
                 Place Order
-              </Button>
+              </Button> */}
             </Card>
           </Col>
         </Row>
