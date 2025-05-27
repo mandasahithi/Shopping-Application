@@ -1,0 +1,564 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "title": "RWDY SUMMER FORMAL SHIRT",
+      "price": 3000,
+      "description": "17 coins",
+      "category": "summerClothing",
+      "image": "SummerwinterDresses/Summer1.jpg",
+      "size": {
+        "XS": "XS",
+        "S": "S",
+        "M": "M",
+        "L": "L",
+        "XL": "XL",
+        "XXL": "XXL"
+      },
+      "details": {
+        "p1": " Crafted using premium flat knit fabric, the RWDY Polo levels up the basics. Structured but breathable, it keeps things crisp without killing the vibe. The contrast collar adds that pop, and the RWDY metal badge at the chest? That’s your street stamp.",
+        "sideHeading": "Versatile and Comfortable:",
+        "p2": " Button it up with cargos, layer it over a vest, or throw it on solo—this Polo’s got range. The relaxed cut meets elevated finish for an easy everyday flex. Whether you’re out making noise or keeping it chill, this one moves with you. Don’t just wear it. Live in it. RWDY Approved. "
+      },
+      "features": {
+        "p1": "Canvas Fabric — rugged yet breathable.",
+        "p2": "Street-ready fits — classic panels and curved brim.",
+        "p3": "Adjustable strap — fits snug, every time.",
+        "p4": "Minimal RWDY logo embroidery — let your moves do the talking."
+      },
+      "composition": {
+        "p1": "Brush lightly with cold water.",
+        "p2": "Wipe with clean damp cloth.",
+        "p3": "Do not machine wash.",
+        "p4": "Watch our deep clean cap care instructions here."
+      },
+      "delivery": {
+        "p1": " We make RWDY with full love and care, in limited quantities. We request you to refer to the size guides before your purchase.",
+        "sideHeading": "Note",
+        "p2": "Products sold at SALE cannot be  returned / exchange under any circumstances. Please refer to the size guide before you purchase Delivery in 7-10 working days.",
+        "p3": " In case there's an issue with the product you received, reach out to us on +91-9121022336 and our wonderful customer care team will guide you with the return process.",
+        "p4": " We love you, Rwdy :)"
+      }
+    },
+    {
+      "id": "2",
+      "title": "RWDY SUMMER WHITE SKIRT",
+      "price": 2500,
+      "description": "37 coins",
+      "category": "summerClothing",
+      "image": "SummerwinterDresses/Summer2.jpg",
+      "size": {
+        "XS": "XS",
+        "S": "S",
+        "M": "M",
+        "L": "L",
+        "XL": "XL",
+        "XXL": "XXL"
+      },
+      "details": {
+        "p1": " Crafted using premium flat knit fabric, the RWDY Polo levels up the basics. Structured but breathable, it keeps things crisp without killing the vibe. The contrast collar adds that pop, and the RWDY metal badge at the chest? That’s your street stamp.",
+        "sideHeading": "Versatile and Comfortable:",
+        "p2": " Button it up with cargos, layer it over a vest, or throw it on solo—this Polo’s got range. The relaxed cut meets elevated finish for an easy everyday flex. Whether you’re out making noise or keeping it chill, this one moves with you. Don’t just wear it. Live in it. RWDY Approved. "
+      },
+      "features": {
+        "p1": "Canvas Fabric — rugged yet breathable.",
+        "p2": "Street-ready fits — classic panels and curved brim.",
+        "p3": "Adjustable strap — fits snug, every time.",
+        "p4": "Minimal RWDY logo embroidery — let your moves do the talking."
+      },
+      "composition": {
+        "p1": "Brush lightly with cold water.",
+        "p2": "Wipe with clean damp cloth.",
+        "p3": "Do not machine wash.",
+        "p4": "Watch our deep clean cap care instructions here."
+      },
+      "delivery": {
+        "p1": " We make RWDY with full love and care, in limited quantities. We request you to refer to the size guides before your purchase.",
+        "sideHeading": "Note",
+        "p2": "Products sold at SALE cannot be  returned / exchange under any circumstances. Please refer to the size guide before you purchase Delivery in 7-10 working days.",
+        "p3": " In case there's an issue with the product you received, reach out to us on +91-9121022336 and our wonderful customer care team will guide you with the return process.",
+        "p4": " We love you, Rwdy :)"
+      }
+    },
+    {
+      "id": "3",
+      "title": "RWDY SUMMER COTTON DRESS",
+      "price": 1500,
+      "description": "10 coins",
+      "category": "summerClothing",
+      "image": "SummerwinterDresses/Summer3.jpg",
+      "size": {
+        "XS": "XS",
+        "S": "S",
+        "M": "M",
+        "L": "L",
+        "XL": "XL",
+        "XXL": "XXL"
+      },
+      "details": {
+        "p1": " Crafted using premium flat knit fabric, the RWDY Polo levels up the basics. Structured but breathable, it keeps things crisp without killing the vibe. The contrast collar adds that pop, and the RWDY metal badge at the chest? That’s your street stamp.",
+        "sideHeading": "Versatile and Comfortable:",
+        "p2": " Button it up with cargos, layer it over a vest, or throw it on solo—this Polo’s got range. The relaxed cut meets elevated finish for an easy everyday flex. Whether you’re out making noise or keeping it chill, this one moves with you. Don’t just wear it. Live in it. RWDY Approved. "
+      },
+      "features": {
+        "p1": "Canvas Fabric — rugged yet breathable.",
+        "p2": "Street-ready fits — classic panels and curved brim.",
+        "p3": "Adjustable strap — fits snug, every time.",
+        "p4": "Minimal RWDY logo embroidery — let your moves do the talking."
+      },
+      "composition": {
+        "p1": "Brush lightly with cold water.",
+        "p2": "Wipe with clean damp cloth.",
+        "p3": "Do not machine wash.",
+        "p4": "Watch our deep clean cap care instructions here."
+      },
+      "delivery": {
+        "p1": " We make RWDY with full love and care, in limited quantities. We request you to refer to the size guides before your purchase.",
+        "sideHeading": "Note",
+        "p2": "Products sold at SALE cannot be  returned / exchange under any circumstances. Please refer to the size guide before you purchase Delivery in 7-10 working days.",
+        "p3": " In case there's an issue with the product you received, reach out to us on +91-9121022336 and our wonderful customer care team will guide you with the return process.",
+        "p4": " We love you, Rwdy :)"
+      }
+    },
+    {
+      "id": "4",
+      "title": "RWDY SUMMER YELLOW DRESS",
+      "price": 3500,
+      "description": "14 coins",
+      "category": "summerClothing",
+      "image": "SummerwinterDresses/Summer4.jpg",
+      "size": {
+        "XS": "XS",
+        "S": "S",
+        "M": "M",
+        "L": "L",
+        "XL": "XL",
+        "XXL": "XXL"
+      },
+      "details": {
+        "p1": " Crafted using premium flat knit fabric, the RWDY Polo levels up the basics. Structured but breathable, it keeps things crisp without killing the vibe. The contrast collar adds that pop, and the RWDY metal badge at the chest? That’s your street stamp.",
+        "sideHeading": "Versatile and Comfortable:",
+        "p2": " Button it up with cargos, layer it over a vest, or throw it on solo—this Polo’s got range. The relaxed cut meets elevated finish for an easy everyday flex. Whether you’re out making noise or keeping it chill, this one moves with you. Don’t just wear it. Live in it. RWDY Approved. "
+      },
+      "features": {
+        "p1": "Canvas Fabric — rugged yet breathable.",
+        "p2": "Street-ready fits — classic panels and curved brim.",
+        "p3": "Adjustable strap — fits snug, every time.",
+        "p4": "Minimal RWDY logo embroidery — let your moves do the talking."
+      },
+      "composition": {
+        "p1": "Brush lightly with cold water.",
+        "p2": "Wipe with clean damp cloth.",
+        "p3": "Do not machine wash.",
+        "p4": "Watch our deep clean cap care instructions here."
+      },
+      "delivery": {
+        "p1": " We make RWDY with full love and care, in limited quantities. We request you to refer to the size guides before your purchase.",
+        "sideHeading": "Note",
+        "p2": "Products sold at SALE cannot be  returned / exchange under any circumstances. Please refer to the size guide before you purchase Delivery in 7-10 working days.",
+        "p3": " In case there's an issue with the product you received, reach out to us on +91-9121022336 and our wonderful customer care team will guide you with the return process.",
+        "p4": " We love you, Rwdy :)"
+      }
+    },
+    {
+      "id": "5",
+      "title": "RWDY SUMMER GOA SHIRT",
+      "price": 1800,
+      "description": "15 coins",
+      "category": "summerClothing",
+      "image": "SummerwinterDresses/Summer5.jpg",
+      "size": {
+        "XS": "XS",
+        "S": "S",
+        "M": "M",
+        "L": "L",
+        "XL": "XL",
+        "XXL": "XXL"
+      },
+      "details": {
+        "p1": " Crafted using premium flat knit fabric, the RWDY Polo levels up the basics. Structured but breathable, it keeps things crisp without killing the vibe. The contrast collar adds that pop, and the RWDY metal badge at the chest? That’s your street stamp.",
+        "sideHeading": "Versatile and Comfortable:",
+        "p2": " Button it up with cargos, layer it over a vest, or throw it on solo—this Polo’s got range. The relaxed cut meets elevated finish for an easy everyday flex. Whether you’re out making noise or keeping it chill, this one moves with you. Don’t just wear it. Live in it. RWDY Approved. "
+      },
+      "features": {
+        "p1": "Canvas Fabric — rugged yet breathable.",
+        "p2": "Street-ready fits — classic panels and curved brim.",
+        "p3": "Adjustable strap — fits snug, every time.",
+        "p4": "Minimal RWDY logo embroidery — let your moves do the talking."
+      },
+      "composition": {
+        "p1": "Brush lightly with cold water.",
+        "p2": "Wipe with clean damp cloth.",
+        "p3": "Do not machine wash.",
+        "p4": "Watch our deep clean cap care instructions here."
+      },
+      "delivery": {
+        "p1": " We make RWDY with full love and care, in limited quantities. We request you to refer to the size guides before your purchase.",
+        "sideHeading": "Note",
+        "p2": "Products sold at SALE cannot be  returned / exchange under any circumstances. Please refer to the size guide before you purchase Delivery in 7-10 working days.",
+        "p3": " In case there's an issue with the product you received, reach out to us on +91-9121022336 and our wonderful customer care team will guide you with the return process.",
+        "p4": " We love you, Rwdy :)"
+      }
+    },
+    {
+      "id": "6",
+      "title": "RWDY SUMMER FLOWERS SKIRT",
+      "price": 3200,
+      "description": "17 coins",
+      "category": "summerClothing",
+      "image": "SummerwinterDresses/Summer6.jpg",
+      "size": {
+        "XS": "XS",
+        "S": "S",
+        "M": "M",
+        "L": "L",
+        "XL": "XL",
+        "XXL": "XXL"
+      },
+      "details": {
+        "p1": " Crafted using premium flat knit fabric, the RWDY Polo levels up the basics. Structured but breathable, it keeps things crisp without killing the vibe. The contrast collar adds that pop, and the RWDY metal badge at the chest? That’s your street stamp.",
+        "sideHeading": "Versatile and Comfortable:",
+        "p2": " Button it up with cargos, layer it over a vest, or throw it on solo—this Polo’s got range. The relaxed cut meets elevated finish for an easy everyday flex. Whether you’re out making noise or keeping it chill, this one moves with you. Don’t just wear it. Live in it. RWDY Approved. "
+      },
+      "features": {
+        "p1": "Canvas Fabric — rugged yet breathable.",
+        "p2": "Street-ready fits — classic panels and curved brim.",
+        "p3": "Adjustable strap — fits snug, every time.",
+        "p4": "Minimal RWDY logo embroidery — let your moves do the talking."
+      },
+      "composition": {
+        "p1": "Brush lightly with cold water.",
+        "p2": "Wipe with clean damp cloth.",
+        "p3": "Do not machine wash.",
+        "p4": "Watch our deep clean cap care instructions here."
+      },
+      "delivery": {
+        "p1": " We make RWDY with full love and care, in limited quantities. We request you to refer to the size guides before your purchase.",
+        "sideHeading": "Note",
+        "p2": "Products sold at SALE cannot be  returned / exchange under any circumstances. Please refer to the size guide before you purchase Delivery in 7-10 working days.",
+        "p3": " In case there's an issue with the product you received, reach out to us on +91-9121022336 and our wonderful customer care team will guide you with the return process.",
+        "p4": " We love you, Rwdy :)"
+      }
+    },
+    {
+      "id": "7",
+      "title": "RWDY SUMMER PURPLE FROCK",
+      "price": 1200,
+      "description": "17 coins",
+      "category": "summerClothing",
+      "image": "SummerwinterDresses/Summer7.jpg",
+      "size": {
+        "XS": "XS",
+        "S": "S",
+        "M": "M",
+        "L": "L",
+        "XL": "XL",
+        "XXL": "XXL"
+      },
+      "details": {
+        "p1": " Crafted using premium flat knit fabric, the RWDY Polo levels up the basics. Structured but breathable, it keeps things crisp without killing the vibe. The contrast collar adds that pop, and the RWDY metal badge at the chest? That’s your street stamp.",
+        "sideHeading": "Versatile and Comfortable:",
+        "p2": " Button it up with cargos, layer it over a vest, or throw it on solo—this Polo’s got range. The relaxed cut meets elevated finish for an easy everyday flex. Whether you’re out making noise or keeping it chill, this one moves with you. Don’t just wear it. Live in it. RWDY Approved. "
+      },
+      "features": {
+        "p1": "Canvas Fabric — rugged yet breathable.",
+        "p2": "Street-ready fits — classic panels and curved brim.",
+        "p3": "Adjustable strap — fits snug, every time.",
+        "p4": "Minimal RWDY logo embroidery — let your moves do the talking."
+      },
+      "composition": {
+        "p1": "Brush lightly with cold water.",
+        "p2": "Wipe with clean damp cloth.",
+        "p3": "Do not machine wash.",
+        "p4": "Watch our deep clean cap care instructions here."
+      },
+      "delivery": {
+        "p1": " We make RWDY with full love and care, in limited quantities. We request you to refer to the size guides before your purchase.",
+        "sideHeading": "Note",
+        "p2": "Products sold at SALE cannot be  returned / exchange under any circumstances. Please refer to the size guide before you purchase Delivery in 7-10 working days.",
+        "p3": " In case there's an issue with the product you received, reach out to us on +91-9121022336 and our wonderful customer care team will guide you with the return process.",
+        "p4": " We love you, Rwdy :)"
+      }
+    },
+    {
+      "id": "8",
+      "title": "RWDY WINTER JACKET",
+      "price": 2490,
+      "description": "27 coins",
+      "category": "winterClothing",
+      "image": "SummerwinterDresses/winter1.jpg",
+      "size": {
+        "XS": "XS",
+        "S": "S",
+        "M": "M",
+        "L": "L",
+        "XL": "XL",
+        "XXL": "XXL"
+      },
+      "details": {
+        "p1": " Crafted using premium flat knit fabric, the RWDY Polo levels up the basics. Structured but breathable, it keeps things crisp without killing the vibe. The contrast collar adds that pop, and the RWDY metal badge at the chest? That’s your street stamp.",
+        "sideHeading": "Versatile and Comfortable:",
+        "p2": " Button it up with cargos, layer it over a vest, or throw it on solo—this Polo’s got range. The relaxed cut meets elevated finish for an easy everyday flex. Whether you’re out making noise or keeping it chill, this one moves with you. Don’t just wear it. Live in it. RWDY Approved. "
+      },
+      "features": {
+        "p1": "Canvas Fabric — rugged yet breathable.",
+        "p2": "Street-ready fits — classic panels and curved brim.",
+        "p3": "Adjustable strap — fits snug, every time.",
+        "p4": "Minimal RWDY logo embroidery — let your moves do the talking."
+      },
+      "composition": {
+        "p1": "Brush lightly with cold water.",
+        "p2": "Wipe with clean damp cloth.",
+        "p3": "Do not machine wash.",
+        "p4": "Watch our deep clean cap care instructions here."
+      },
+      "delivery": {
+        "p1": " We make RWDY with full love and care, in limited quantities. We request you to refer to the size guides before your purchase.",
+        "sideHeading": "Note",
+        "p2": "Products sold at SALE cannot be  returned / exchange under any circumstances. Please refer to the size guide before you purchase Delivery in 7-10 working days.",
+        "p3": " In case there's an issue with the product you received, reach out to us on +91-9121022336 and our wonderful customer care team will guide you with the return process.",
+        "p4": " We love you, Rwdy :)"
+      }
+    },
+    {
+      "id": "9",
+      "title": "RWDY WINTER JACKET MEN",
+      "price": 1490,
+      "description": "22 coins",
+      "category": "winterClothing",
+      "image": "SummerwinterDresses/winter2.jpg",
+      "size": {
+        "XS": "XS",
+        "S": "S",
+        "M": "M",
+        "L": "L",
+        "XL": "XL",
+        "XXL": "XXL"
+      },
+      "details": {
+        "p1": " Crafted using premium flat knit fabric, the RWDY Polo levels up the basics. Structured but breathable, it keeps things crisp without killing the vibe. The contrast collar adds that pop, and the RWDY metal badge at the chest? That’s your street stamp.",
+        "sideHeading": "Versatile and Comfortable:",
+        "p2": " Button it up with cargos, layer it over a vest, or throw it on solo—this Polo’s got range. The relaxed cut meets elevated finish for an easy everyday flex. Whether you’re out making noise or keeping it chill, this one moves with you. Don’t just wear it. Live in it. RWDY Approved. "
+      },
+      "features": {
+        "p1": "Canvas Fabric — rugged yet breathable.",
+        "p2": "Street-ready fits — classic panels and curved brim.",
+        "p3": "Adjustable strap — fits snug, every time.",
+        "p4": "Minimal RWDY logo embroidery — let your moves do the talking."
+      },
+      "composition": {
+        "p1": "Brush lightly with cold water.",
+        "p2": "Wipe with clean damp cloth.",
+        "p3": "Do not machine wash.",
+        "p4": "Watch our deep clean cap care instructions here."
+      },
+      "delivery": {
+        "p1": " We make RWDY with full love and care, in limited quantities. We request you to refer to the size guides before your purchase.",
+        "sideHeading": "Note",
+        "p2": "Products sold at SALE cannot be  returned / exchange under any circumstances. Please refer to the size guide before you purchase Delivery in 7-10 working days.",
+        "p3": " In case there's an issue with the product you received, reach out to us on +91-9121022336 and our wonderful customer care team will guide you with the return process.",
+        "p4": " We love you, Rwdy :)"
+      }
+    },
+    {
+      "id": "10",
+      "title": "RWDY WINTER FROCK",
+      "price": 1500,
+      "description": "20 coins",
+      "category": "winterClothing",
+      "image": "SummerwinterDresses/winter3.jpg",
+      "size": {
+        "XS": "XS",
+        "S": "S",
+        "M": "M",
+        "L": "L",
+        "XL": "XL",
+        "XXL": "XXL"
+      },
+      "details": {
+        "p1": " Crafted using premium flat knit fabric, the RWDY Polo levels up the basics. Structured but breathable, it keeps things crisp without killing the vibe. The contrast collar adds that pop, and the RWDY metal badge at the chest? That’s your street stamp.",
+        "sideHeading": "Versatile and Comfortable:",
+        "p2": " Button it up with cargos, layer it over a vest, or throw it on solo—this Polo’s got range. The relaxed cut meets elevated finish for an easy everyday flex. Whether you’re out making noise or keeping it chill, this one moves with you. Don’t just wear it. Live in it. RWDY Approved. "
+      },
+      "features": {
+        "p1": "Canvas Fabric — rugged yet breathable.",
+        "p2": "Street-ready fits — classic panels and curved brim.",
+        "p3": "Adjustable strap — fits snug, every time.",
+        "p4": "Minimal RWDY logo embroidery — let your moves do the talking."
+      },
+      "composition": {
+        "p1": "Brush lightly with cold water.",
+        "p2": "Wipe with clean damp cloth.",
+        "p3": "Do not machine wash.",
+        "p4": "Watch our deep clean cap care instructions here."
+      },
+      "delivery": {
+        "p1": " We make RWDY with full love and care, in limited quantities. We request you to refer to the size guides before your purchase.",
+        "sideHeading": "Note",
+        "p2": "Products sold at SALE cannot be  returned / exchange under any circumstances. Please refer to the size guide before you purchase Delivery in 7-10 working days.",
+        "p3": " In case there's an issue with the product you received, reach out to us on +91-9121022336 and our wonderful customer care team will guide you with the return process.",
+        "p4": " We love you, Rwdy :)"
+      }
+    },
+    {
+      "id": "11",
+      "title": "RWDY WINTER TOTAL-OUTFIT",
+      "price": 2490,
+      "description": "24 coins",
+      "category": "winterClothing",
+      "image": "SummerwinterDresses/winter4.jpg",
+      "size": {
+        "XS": "XS",
+        "S": "S",
+        "M": "M",
+        "L": "L",
+        "XL": "XL",
+        "XXL": "XXL"
+      },
+      "details": {
+        "p1": " Crafted using premium flat knit fabric, the RWDY Polo levels up the basics. Structured but breathable, it keeps things crisp without killing the vibe. The contrast collar adds that pop, and the RWDY metal badge at the chest? That’s your street stamp.",
+        "sideHeading": "Versatile and Comfortable:",
+        "p2": " Button it up with cargos, layer it over a vest, or throw it on solo—this Polo’s got range. The relaxed cut meets elevated finish for an easy everyday flex. Whether you’re out making noise or keeping it chill, this one moves with you. Don’t just wear it. Live in it. RWDY Approved. "
+      },
+      "features": {
+        "p1": "Canvas Fabric — rugged yet breathable.",
+        "p2": "Street-ready fits — classic panels and curved brim.",
+        "p3": "Adjustable strap — fits snug, every time.",
+        "p4": "Minimal RWDY logo embroidery — let your moves do the talking."
+      },
+      "composition": {
+        "p1": "Brush lightly with cold water.",
+        "p2": "Wipe with clean damp cloth.",
+        "p3": "Do not machine wash.",
+        "p4": "Watch our deep clean cap care instructions here."
+      },
+      "delivery": {
+        "p1": " We make RWDY with full love and care, in limited quantities. We request you to refer to the size guides before your purchase.",
+        "sideHeading": "Note",
+        "p2": "Products sold at SALE cannot be  returned / exchange under any circumstances. Please refer to the size guide before you purchase Delivery in 7-10 working days.",
+        "p3": " In case there's an issue with the product you received, reach out to us on +91-9121022336 and our wonderful customer care team will guide you with the return process.",
+        "p4": " We love you, Rwdy :)"
+      }
+    },
+    {
+      "id": "12",
+      "title": "RWDY WINTER CROPTOP-SKIRT",
+      "price": 1000,
+      "description": "7 coins",
+      "category": "winterClothing",
+      "image": "SummerwinterDresses/winter5.jpg",
+      "size": {
+        "XS": "XS",
+        "S": "S",
+        "M": "M",
+        "L": "L",
+        "XL": "XL",
+        "XXL": "XXL"
+      },
+      "details": {
+        "p1": " Crafted using premium flat knit fabric, the RWDY Polo levels up the basics. Structured but breathable, it keeps things crisp without killing the vibe. The contrast collar adds that pop, and the RWDY metal badge at the chest? That’s your street stamp.",
+        "sideHeading": "Versatile and Comfortable:",
+        "p2": " Button it up with cargos, layer it over a vest, or throw it on solo—this Polo’s got range. The relaxed cut meets elevated finish for an easy everyday flex. Whether you’re out making noise or keeping it chill, this one moves with you. Don’t just wear it. Live in it. RWDY Approved. "
+      },
+      "features": {
+        "p1": "Canvas Fabric — rugged yet breathable.",
+        "p2": "Street-ready fits — classic panels and curved brim.",
+        "p3": "Adjustable strap — fits snug, every time.",
+        "p4": "Minimal RWDY logo embroidery — let your moves do the talking."
+      },
+      "composition": {
+        "p1": "Brush lightly with cold water.",
+        "p2": "Wipe with clean damp cloth.",
+        "p3": "Do not machine wash.",
+        "p4": "Watch our deep clean cap care instructions here."
+      },
+      "delivery": {
+        "p1": " We make RWDY with full love and care, in limited quantities. We request you to refer to the size guides before your purchase.",
+        "sideHeading": "Note",
+        "p2": "Products sold at SALE cannot be  returned / exchange under any circumstances. Please refer to the size guide before you purchase Delivery in 7-10 working days.",
+        "p3": " In case there's an issue with the product you received, reach out to us on +91-9121022336 and our wonderful customer care team will guide you with the return process.",
+        "p4": " We love you, Rwdy :)"
+      }
+    },
+    {
+      "id": "13",
+      "title": "RWDY WINTER WHITE JACKET",
+      "price": 2490,
+      "description": "2 coins",
+      "category": "winterClothing",
+      "image": "SummerwinterDresses/winter6.jpg",
+      "size": {
+        "XS": "XS",
+        "S": "S",
+        "M": "M",
+        "L": "L",
+        "XL": "XL",
+        "XXL": "XXL"
+      },
+      "details": {
+        "p1": " Crafted using premium flat knit fabric, the RWDY Polo levels up the basics. Structured but breathable, it keeps things crisp without killing the vibe. The contrast collar adds that pop, and the RWDY metal badge at the chest? That’s your street stamp.",
+        "sideHeading": "Versatile and Comfortable:",
+        "p2": " Button it up with cargos, layer it over a vest, or throw it on solo—this Polo’s got range. The relaxed cut meets elevated finish for an easy everyday flex. Whether you’re out making noise or keeping it chill, this one moves with you. Don’t just wear it. Live in it. RWDY Approved. "
+      },
+      "features": {
+        "p1": "Canvas Fabric — rugged yet breathable.",
+        "p2": "Street-ready fits — classic panels and curved brim.",
+        "p3": "Adjustable strap — fits snug, every time.",
+        "p4": "Minimal RWDY logo embroidery — let your moves do the talking."
+      },
+      "composition": {
+        "p1": "Brush lightly with cold water.",
+        "p2": "Wipe with clean damp cloth.",
+        "p3": "Do not machine wash.",
+        "p4": "Watch our deep clean cap care instructions here."
+      },
+      "delivery": {
+        "p1": " We make RWDY with full love and care, in limited quantities. We request you to refer to the size guides before your purchase.",
+        "sideHeading": "Note",
+        "p2": "Products sold at SALE cannot be  returned / exchange under any circumstances. Please refer to the size guide before you purchase Delivery in 7-10 working days.",
+        "p3": " In case there's an issue with the product you received, reach out to us on +91-9121022336 and our wonderful customer care team will guide you with the return process.",
+        "p4": " We love you, Rwdy :)"
+      }
+    },
+    {
+      "id": "14",
+      "title": "RWDY LONG JACKET",
+      "price": 2490,
+      "description": "47 coins",
+      "category": "winterClothing",
+      "image": "SummerwinterDresses/winter7.jpg",
+      "size": {
+        "XS": "XS",
+        "S": "S",
+        "M": "M",
+        "L": "L",
+        "XL": "XL",
+        "XXL": "XXL"
+      },
+      "details": {
+        "p1": " Crafted using premium flat knit fabric, the RWDY Polo levels up the basics. Structured but breathable, it keeps things crisp without killing the vibe. The contrast collar adds that pop, and the RWDY metal badge at the chest? That’s your street stamp.",
+        "sideHeading": "Versatile and Comfortable:",
+        "p2": " Button it up with cargos, layer it over a vest, or throw it on solo—this Polo’s got range. The relaxed cut meets elevated finish for an easy everyday flex. Whether you’re out making noise or keeping it chill, this one moves with you. Don’t just wear it. Live in it. RWDY Approved. "
+      },
+      "features": {
+        "p1": "Canvas Fabric — rugged yet breathable.",
+        "p2": "Street-ready fits — classic panels and curved brim.",
+        "p3": "Adjustable strap — fits snug, every time.",
+        "p4": "Minimal RWDY logo embroidery — let your moves do the talking."
+      },
+      "composition": {
+        "p1": "Brush lightly with cold water.",
+        "p2": "Wipe with clean damp cloth.",
+        "p3": "Do not machine wash.",
+        "p4": "Watch our deep clean cap care instructions here."
+      },
+      "delivery": {
+        "p1": " We make RWDY with full love and care, in limited quantities. We request you to refer to the size guides before your purchase.",
+        "sideHeading": "Note",
+        "p2": "Products sold at SALE cannot be  returned / exchange under any circumstances. Please refer to the size guide before you purchase Delivery in 7-10 working days.",
+        "p3": " In case there's an issue with the product you received, reach out to us on +91-9121022336 and our wonderful customer care team will guide you with the return process.",
+        "p4": " We love you, Rwdy :)"
+      }
+    }
+  ]
+}

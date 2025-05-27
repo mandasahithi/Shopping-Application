@@ -1,0 +1,114 @@
+.productImg {
+  width: 75%;
+  height: auto;
+  margin-left: 100px;
+}
+.mainContainer {
+  width: 100%;
+}
+.container {
+  display: grid;
+  gap: 1;
+  grid-template-columns: repeat(1, 1fr);
+}
+
+/* Small screens (≥640px) */
+@media (min-width: 640px) {
+  .container {
+    max-width: 28rem; /* sm:max-w-md = 448px */
+    margin-left: auto;
+    margin-right: 18%;
+    grid-template-columns: repeat(1, 1fr);
+  }
+}
+
+/* Large screens (≥1024px) */
+
+@media (min-width: 1024px) {
+  .lg\:grid-cols-2 {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+/* -------------------------------------- */
+
+.item {
+  padding-left: 1rem; /* px-4 = 16px */
+  padding-right: 1rem;
+  width: 140%;
+}
+
+/* Large screens (≥1024px) */
+@media (min-width: 1024px) {
+  .item {
+    grid-column: span 1 / span 1; /* lg:col-span-1 */
+  }
+}
+
+/* --------------------- */
+/* medium screens */
+@media (min-width: 768px) {
+  .container {
+    max-width: 1258px;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 2.5rem;
+  }
+}
+
+.labelField {
+  color: gray;
+  font-weight: 500;
+  font-size: -0.875rem;
+  line-height: 1.25rem;
+}
+/* -------------------------- */
+.sizeButton {
+  background-color: white;
+  border: 1px solid rgba(197, 197, 197, 0.863);
+  padding-left: 10px;
+  padding-right: 10px;
+  margin-top: 6px;
+  margin-bottom: 6px;
+}
+
+.addButton {
+  height: 2.75rem;
+  cursor: pointer;
+}
+.buyButton {
+  height: 2.75rem;
+  width: 10rem;
+  cursor: pointer;
+  background-color: white;
+}
+.buyButton:hover {
+  transition: transform 0.4s ease, box-shadow 0.4s ease;
+  transform: scale(1.02);
+  background-color: rgb(172, 170, 170);
+}
+body {
+  margin-top: 20px;
+}
+.plusIcon {
+  height: 12px;
+  cursor: pointer;
+  align-self: center; /* optional, vertical centering */
+}
+
+.isVisibleContent {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  font-size: 14px;
+}
+
+.paragraph {
+  font-size: 14px;
+  color: black;
+}
+.activeDetails {
+  color: #007bff; /* Bootstrap primary */
+  font-weight: 800;
+}
+
+.strong {
+  font-weight: 800;
+}

@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bb7bc6a1.css",
+    "main.js": "/static/js/main.1d8b78ca.js",
+    "static/js/453.536d9aeb.chunk.js": "/static/js/453.536d9aeb.chunk.js",
+    "static/media/tees7.jpg": "/static/media/tees7.d4f5d3fa1f68278622c9.jpg",
+    "static/media/tees3.jpg": "/static/media/tees3.31df5f73f38c9dd59dea.jpg",
+    "static/media/tees6.jpg": "/static/media/tees6.35d0dadf1676c15294a6.jpg",
+    "static/media/tees8.jpg": "/static/media/tees8.b6ec4ee70c045c46b4e1.jpg",
+    "static/media/tees1.jpg": "/static/media/tees1.a416b7dfc684566a564b.jpg",
+    "static/media/tees4.jpg": "/static/media/tees4.fed0e994d45cefebd472.jpg",
+    "static/media/tees5.jpg": "/static/media/tees5.d3d3884162ba229409df.jpg",
+    "static/media/tees2.jpg": "/static/media/tees2.e097b33790f9d80d76f1.jpg",
+    "static/media/shoppingvideo.mp4": "/static/media/shoppingvideo.6b261d31a7fb680aedf2.mp4",
+    "static/media/poster.jpg": "/static/media/poster.ec6f3771c27de943a672.jpg",
+    "static/media/bootstrap-icons.woff?": "/static/media/bootstrap-icons.ff25a7ff93ea67f144c5.woff",
+    "static/media/bootstrap-icons.woff2?": "/static/media/bootstrap-icons.ca961065e092080ca3f5.woff2",
+    "index.html": "/index.html",
+    "main.bb7bc6a1.css.map": "/static/css/main.bb7bc6a1.css.map",
+    "main.1d8b78ca.js.map": "/static/js/main.1d8b78ca.js.map",
+    "453.536d9aeb.chunk.js.map": "/static/js/453.536d9aeb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bb7bc6a1.css",
+    "static/js/main.1d8b78ca.js"
+  ]
+}

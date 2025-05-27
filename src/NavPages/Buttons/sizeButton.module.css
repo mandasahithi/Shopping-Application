@@ -1,0 +1,85 @@
+.labelField {
+  color: gray;
+  font-weight: 500;
+  font-size: -0.875rem;
+  line-height: 1.25rem;
+}
+/* ----------- */
+
+.sizeButton {
+  background-color: white;
+  border: 1px solid rgba(197, 197, 197, 0.863);
+  padding-left: 10px;
+  padding-right: 10px;
+  margin-top: 6px;
+  margin-bottom: 6px;
+}
+
+/* ------------------ */
+.paragraph {
+  font-size: 14px;
+  color: black;
+}
+/* ---- */
+.addButton {
+  height: 2.75rem;
+  cursor: pointer;
+  width: 10rem;
+  border-radius: 0 !important;
+}
+.buyButton {
+  height: 2.75rem;
+  width: 10rem;
+  cursor: pointer;
+  background-color: white;
+}
+.buyButton:hover {
+  transition: transform 0.4s ease, box-shadow 0.4s ease;
+  transform: scale(1.02);
+  background-color: rgb(172, 170, 170);
+  height: 2.75rem;
+  width: 10rem;
+}
+/* ---- */
+
+.sizeButtonStyle {
+  border-color: rgb(69, 69, 69);
+  opacity: 1;
+  cursor: pointer;
+}
+
+.cartEnableSuccess {
+  background-color: black;
+  color: white;
+  height: 2.75rem;
+  width: 10rem;
+}
+
+/* Only apply hover when the button is not disabled */
+.addButton:not(:disabled):hover {
+  background-color: white !important;
+  color: black !important;
+  border: 1px solid black !important;
+  height: 2.75rem;
+  width: 10rem;
+}
+
+.addButton:disabled {
+  background-color: gray !important;
+  color: white !important;
+  height: 2.75rem;
+  width: 10rem;
+}
+
+.cartDisable:hover {
+  background-color: gray;
+  color: white;
+  cursor: not-allowed;
+  height: 2.75rem;
+  width: 10rem;
+}
+
+.cartDisable {
+  height: 2.75rem;
+  width: 10rem;
+}

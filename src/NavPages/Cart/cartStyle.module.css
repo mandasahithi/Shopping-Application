@@ -1,0 +1,15 @@
+.gridLayout {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 2rem;
+}
+
+.cartContainer {
+  max-width: 1698px;
+}
+
+.uniformImage {
+  width: 50%; /* Makes image fit the container width */
+  height: 60px; /* Choose a fixed height */
+  object-fit: cover; /* Crops images to fill container nicely */
+}

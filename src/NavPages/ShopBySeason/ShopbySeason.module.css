@@ -1,0 +1,84 @@
+.gridContainer {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(266px, 1fr));
+  gap: 0.4rem;
+}
+.btn:hover {
+  transform: scale(1.02);
+  transition: transform 0.2s ease-in-out;
+}
+.navItem {
+  background-color: rgb(240, 240, 240);
+  color: black;
+  border-radius: 13px;
+  padding: 10px 20px;
+}
+.navItem:hover {
+  background-color: rgb(194, 194, 194);
+}
+
+.NavItemGray {
+  background-color: rgb(194, 194, 194);
+  color: black;
+  border-radius: 13px;
+  padding: 10px 20px;
+}
+
+/* .gridContainer img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+} */
+
+.uniformImage {
+  width: 100%; /* Makes image fit the container width */
+  height: 600px; /* Choose a fixed height */
+  object-fit: cover; /* Crops images to fill container nicely */
+}
+
+.gridContainer img:hover {
+  transform: scale(1.02);
+}
+
+.maincontainer {
+  padding-top: 40px;
+  padding-left: 40px;
+  padding-right: 40px;
+  padding-bottom: 4px;
+}
+
+.card-title {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.navLinks {
+  display: flex;
+  flex-direction: column;
+}
+
+/* @media screen and (min-width: 320px) and (max-width: 568px) {
+  .navLinks {
+    flex-wrap: wrap;
+    align-content: start;
+  }
+} */
+.postering {
+  width: 100%;
+  height: 45vh;
+  margin-bottom: 0px;
+}
+
+/* Default (desktop/tablet) */
+.postering {
+  display: block;
+}
+
+/* Mobile (max-width 768px or 600px depending on your breakpoint) */
+@media screen and (max-width: 768px) {
+  .postering {
+    display: none;
+  }
+}
